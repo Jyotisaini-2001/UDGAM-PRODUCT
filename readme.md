@@ -16,6 +16,7 @@ This project consists of two parts:
    ```bash
    git clone repo
    cd product-backend
+   npm install cors
    use your database credential in config/db.js file. And keep table name as products .if you want to change so change it in models/products.js as well.
    run: - node index.js
 
@@ -25,6 +26,8 @@ This project consists of two parts:
   cd udgam-product
   npm install
   npx create-react-app@latest
+  npm install axios
+  npm install react-router
   npm install -D tailwindcss postcss autoprefixer
   npx tailwindcss init -p
 
