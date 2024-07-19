@@ -1,5 +1,6 @@
 # Udgam Product Project
-
+user name: admin
+password: password
 This project consists of two parts:
 - **Udgam Product (Frontend)**: A React application.
 - **Product Backend**: A Node.js backend with MySQL database.
